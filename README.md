@@ -50,7 +50,8 @@
 - Quick identification of sales trends.
 - Supports data-driven business decisions.
 ## Dashboard Preview
-
+### Sales Data
+<img width="782" height="490" alt="image" src="https://github.com/user-attachments/assets/238f2e78-8485-4cc9-b30a-0e1ced40e774" />
 
 
 
