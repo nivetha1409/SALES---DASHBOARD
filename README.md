@@ -56,7 +56,7 @@
 ### Pivot Table
 <img width="1241" height="402" alt="image" src="https://github.com/user-attachments/assets/de8a2685-7027-4ed9-98cf-518d7407e664" />
 
-### **Output** - Sales Dashboard
+## **Output** - Sales Dashboard
 <img width="811" height="480" alt="image" src="https://github.com/user-attachments/assets/763ce5f7-9083-4406-a701-25290a573afd" />
 
 
