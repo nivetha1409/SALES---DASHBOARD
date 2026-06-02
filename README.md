@@ -17,7 +17,7 @@
 - Dashboard Design Techniques
 ## Dashboard Features    
 ### 1. KPI Summary Cards  
-**Displays key business metrics**    
+**Displays key business metrics:**    
 - Total Sales  
 - Total Units Sold  
 - Total Profit  
