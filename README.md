@@ -53,7 +53,8 @@
 ### Sales Data
 <img width="782" height="490" alt="image" src="https://github.com/user-attachments/assets/238f2e78-8485-4cc9-b30a-0e1ced40e774" />
 
-
+### Pivot Table
+<img width="1241" height="402" alt="image" src="https://github.com/user-attachments/assets/de8a2685-7027-4ed9-98cf-518d7407e664" />
 
 
 
