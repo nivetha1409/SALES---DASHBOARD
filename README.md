@@ -1,6 +1,6 @@
 ## Project Overview  
 - This Excel Dashboard provides an interactive analysis of sales data using Pivot Tables, Pivot Charts, and Slicers.   
-- It helps users monitor sales performance, product trends, regional performance, and salesperson contributions through dynamic visualizations.  
+- It helps users monitor sales performance, product trends, regional performance, and sales person contributions through dynamic visualizations.  
 
 ## Objectives  
 - Analyze total sales and profit performance.  
